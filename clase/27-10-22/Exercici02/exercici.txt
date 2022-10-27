@@ -1,0 +1,4 @@
+Crea un arxiu nou de tipus html dins d'aquesta carpeta
+en aquest arxiu ha d'haver-hi 5 títols diferents
+entre títol i títol ha d'haver-hi un paràgraf i una imatge
+Dins del paràgraf han d'estar la negreta, la cursiva el taxat i el subrallat.
