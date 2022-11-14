@@ -1,8 +1,8 @@
 Estructura basica HTML
 ---Aixo diu que comencem un HTML
--- Auxi es imprescindible en tots els HTML
+-- Auxi es im p rescindible en tots els HTML
 -- totes les altres etiquetes van dins d'aquestes.
-<!DOCTYPE html>
+<!DOCTY p E html>
 <html>
 
 
@@ -12,10 +12,10 @@ Estructura basica HTML
 
 ---------------------------------------------------------------------
 Estructura de la etiqueta <html></html>
-    1. <head> </head> : Aixo es van unes etiquets molt importants. Titul de la pestanya de la pagina web.
+    1. <head> </head> : Aixo es van unes etiquets molt im p ortants. Titul de la  p estanya de la  p agina web.
     2. <body> </body> : aixo es el cos del HTML. que es on anira la resta de etiquetes.
 
-<!DOCTYPE html>
+<!DOCTY p E html>
 <html>
     <head> 
 
@@ -29,10 +29,10 @@ Estructura de la etiqueta <html></html>
 
 -------------------------------------------------------------------------
 Estructura del <head> </head>
-Aqui per el moment hi haura nomes el titol.
-<title> </title>: el titol es el cap de la web
+Aqui  p er el moment hi haura nomes el titol.
+<title> </title>: el titol es el ca p  de la web
 
-<!DOCTYPE html>
+<!DOCTY p E html>
 <html>
     <head> 
         <title> 
@@ -48,12 +48,12 @@ Aqui per el moment hi haura nomes el titol.
 
 --------------------------------------------------------------------------------
 Estructura del <body> </body>
-1. <header> </header> Es el titol de la pagina, aqui ja podem començar a ficar les etiquetes de text o imatges o elque volguem.
+1. <header> </header> Es el titol de la  p agina, aqui ja  p odem començar a ficar les etiquetes de text o imatges o elque volguem.
 2. <main> </main>: aixo seria on ficariem tota la nostre web, amb les etiquetes que ja coneixem.
-3. <footer> </footer>: el peu de la pagina.
+3. <footer> </footer>: el  p eu de la  p agina.
 
 
-<!DOCTYPE html>
+<!DOCTY p E html>
 <html>
     <head> 
         <title> 
