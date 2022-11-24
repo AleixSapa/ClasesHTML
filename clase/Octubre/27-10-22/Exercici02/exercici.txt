@@ -1,4 +1,4 @@
-Crea un arxiu nou de ti p us html dins d'aquesta car p eta
+Crea un arxiu nou de tipus html dins d'aquesta carpeta
 en aquest arxiu ha d'haver-hi 5 títols diferents
-entre títol i títol ha d'haver-hi un  p aràgraf i una imatge
-Dins del  p aràgraf han d'estar la negreta, la cursiva el taxat i el subrallat.
+entre títol i títol ha d'haver-hi un paràgraf i una imatge
+Dins del paràgraf han d'estar la negreta, la cursiva el taxat i el subrallat.

@@ -1,4 +1,4 @@
-1.Crea un archivo html con su estructura base y muestra en el navegador el texto que quieras en un  p árrafo dentro de la etiqueta main.
+1.Crea un archivo html con su estructura base y muestra en el navegador el texto que quieras en un párrafo dentro de la etiqueta main.
 2.Añade un titulo en el head del archivo html.
 3.añade una cabecera en la etiqueta header.
 4. añade en la etiqueta de footer un texto con negrita.

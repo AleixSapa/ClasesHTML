@@ -1,7 +1,7 @@
 Has de crear un arxiu nou que es dirà index.html
-des p rés has de crear un títol
-un  p aràgraf i una imatge
- p er últim dins el  p aràgraf 
+després has de crear un títol
+un paràgraf i una imatge
+per últim dins el paràgraf 
 que ha de ser llarg has de ficar
 un tros amb negreta
 un tros amb subratllat,
