@@ -8,25 +8,14 @@
 <html>
 
 <head>
-    <title>
-        primera clase de noviembre
-    </title>
+    <title>titulo en la pestanya</title>
 </head>
 
 <body>
-    <header>
-        <h1>AVUI ES 3-11-22</h1>
-    </header>
-
-    <main>
-        <p>Hoi es noviembre dia 3 numero de mes 11 i anyo 2022</p>
-    </main>
-
-    <footer>
-        <p><b>el Aleix esta fen html</b></p>
-    </footer>
+    <header>Titulo del body</header>
+    <main>Body donde va todo el HTML</main>
+    <footer>Pie del body</footer>
 </body>
-
 </html>
 
 
@@ -41,4 +30,14 @@
 <br>Aixo es un salt de linia
 <img src="image/Eevee01.png"> Aixo es una Imatge
 
+
+
+## Etiquetes taules
+<table>Aixo es la taula taula </table>
+<table border="1"> Aixo se otulitce per fe el vorde de las celas</table>
+<th>Aixo son encatçalament</th>
+<tr>Aixo es una fila</tr>
+<td>Aixo es una cela</td>
+<td colspan="2">     Aixo sarveix per guntar 2 culumnes   </td>
+<td rowspan="2">     Aixo sarveix per guntar 2 filas    </td>
 
