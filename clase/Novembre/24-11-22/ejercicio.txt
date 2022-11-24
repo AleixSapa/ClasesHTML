@@ -1,0 +1,31 @@
+1 EJERCICIO
+
+Se tiene que hacer una tabla con 4 filas y 3 columnas.
+Cada celda ha de contener un texto diferente.
+
+
+
+
+2 EJERCICIO
+se tiene que crear una tabla donde puedas insertar el nombre y apellidos de tu familia.
+
+El nombre estara en una columna y los apellidos en la otra columna.
+
+Se ha de poner un encabezado en la tabla donde ponga nombre y apellidos. Este tiene que estar en negrita y subrayado.
+
+
+
+
+
+3 EJERCICIO
+tienes que crear una tabla que estara estructurada de la siguiente manera hay 3 filas y 4 columans pero estan unificadas
+
+
+---------------------
+| Num | Nombre      |
+---------------------
+|         |         |
+-  imagen -  Texto  -
+|         |         |
+---------------------
+
