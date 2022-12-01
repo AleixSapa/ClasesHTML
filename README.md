@@ -29,7 +29,7 @@
 <u>Aixo es el suprallat</u>
 <br>Aixo es un salt de linia
 <img src="image/Eevee01.png"> Aixo es una Imatge
-
+ <!-- Aixo son comentaris -->
 
 
 ## Etiquetes taules
