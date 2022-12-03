@@ -30,7 +30,7 @@
 <br>Aixo es un salt de linia
 <img src="image/Eevee01.png"> Aixo es una Imatge
  <!-- Aixo son comentaris -->
-
+<center>Aixo Sarveix per a lu que posis dins es posi en el centre</center>
 
 ## Etiquetes taules
 <table>Aixo es la taula taula </table>
