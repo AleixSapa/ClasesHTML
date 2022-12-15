@@ -1,0 +1,12 @@
+1. Crea un html amb un títol(1) i després crea 2 paràgrafs. fes amb CSS que el títol(1) sigui de color vermell el seu text i
+    que els paràgrafs tinguin negreta amb CSS
+
+2. Afegeix a l'HTML que hem creat abans una imatge i posa-li que l'amplada és 150px i l'alçada són 100px.
+
+3. Afegeix un títol(2) i ha aquest li has de posar el mateix que al del títol(1) però a més ha de
+    tenir un fons negre
+
+
+
+
+
