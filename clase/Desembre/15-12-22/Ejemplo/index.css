@@ -1,0 +1,25 @@
+p {
+    /*Color de la letra*/
+    color: rgb(25, 0, 255);
+
+    /*Fondo del parágrafo*/
+    background-color: aqua;
+
+    /*Negrita*/
+    font-weight: bold;
+
+    /*cursiva*/
+    font-style: italic;
+
+    /*tachado*/
+    text-decoration: line-through;
+
+    /*Subrayado*/
+    text-decoration: underline;
+
+    /*Altura*/
+    height: 50px;
+
+    /*Anchura*/
+    width: 500px;
+}
