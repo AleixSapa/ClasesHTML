@@ -1,0 +1,23 @@
+p {
+    color: red;
+}
+
+h1 h2 h3 h4 h5 h6{
+    color: green;
+}
+
+i{
+    color: silver;
+}
+
+.Planta{
+    background-color: green;
+}
+
+#Fuego{
+    background-color: red;
+}
+
+.ClaseTipo{
+    color: red;
+}

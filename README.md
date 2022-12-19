@@ -81,3 +81,7 @@ height: 50px;
     width: 500px;
 
     p {Sirve para que lo que pongas lo tengan todos los parágrafos}
+
+     <td class="Planta ClaseTipo"> Aixo son clases
+
+     <id>Aixo es un id
