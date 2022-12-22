@@ -1,7 +1,15 @@
-h1 {
-    color: blue;
-}
+h1 h2 h3 h4 h5 h6{color: blue;}
 
-.Rojo {
-    color: red;
-}
+.Rojo {color: red;}     titulos
+
+.Verde{color: green;}
+
+.Ama{color: yellow;}    
+
+.Lila{color: purple;}  
+
+.Gris{color: grey;}
+
+.BC{color: skyblue;}
+
+td{color: dimgrey;}
