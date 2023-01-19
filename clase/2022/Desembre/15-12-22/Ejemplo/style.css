@@ -10,6 +10,13 @@ p {
     width: 250px;
 }
 
-h1 {
+.Tituls {
+    width: 150px;
+    height: 100px;
     color: red;
+}
+
+h2 {
+    /*Fondo del parágrafo*/
+    background-color: #000;
 }
