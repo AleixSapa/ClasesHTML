@@ -1,25 +1,15 @@
 p {
-    /*Color de la letra*/
-    color: blue;
-
     /*Fondo del parágrafo*/
-    background-color: aqua;
+    background-color: purple;
 
     /*Negrita*/
     font-weight: bold;
 
-    /*cursiva*/
-    font-style: italic;
+    height: 20px;
 
-    /*tachado*/
-    text-decoration: line-through;
+    width: 250px;
+}
 
-    /*Subrayado*/
-    text-decoration: underline;
-
-    /*Altura*/
-    height: 50px;
-
-    /*Anchura*/
-    width: 500px;
+h1 {
+    color: red;
 }
