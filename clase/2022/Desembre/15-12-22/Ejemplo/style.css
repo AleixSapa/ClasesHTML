@@ -1,0 +1,22 @@
+p {
+    /*Fondo del parágrafo*/
+    background-color: purple;
+
+    /*Negrita*/
+    font-weight: bold;
+
+    height: 20px;
+
+    width: 250px;
+}
+
+.Tituls {
+    width: 150px;
+    height: 100px;
+    color: red;
+}
+
+h2 {
+    /*Fondo del parágrafo*/
+    background-color: #000;
+}
