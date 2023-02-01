@@ -6,3 +6,8 @@
 .Rojo {
     color: red;
 }
+
+video {
+    width: 100px;
+    height: 100px;
+}
