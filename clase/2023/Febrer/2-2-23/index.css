@@ -1,0 +1,52 @@
+.css-button-3d--red {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #ef233c;
+    box-shadow: 0 5px #d90429;
+}
+
+.css-button-3d--red:hover {
+    box-shadow: 0 3px #d90429;
+    top: 1px;
+}
+
+.css-button-3d--red:active {
+    box-shadow: 0 0 #d90429;
+    top: 5px;
+}
+
+
+.css-button-gradient--6 {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background-size: 120% auto;
+    background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 75%);
+}
+
+.css-button-gradient--6:hover {
+    background-position: right center;
+}
+
+.css-button-gradient--6:active {
+    top: 2px;
+}

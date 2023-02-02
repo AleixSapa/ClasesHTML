@@ -51,9 +51,12 @@
 
 ## Etiquetes Varies
 
-<!--  Esto es para añadir el CSS en el HTML-->
+
 <head>
+<!--  Esto es para añadir el CSS en el HTML-->
     <link rel="stylesheet" href="style.css">
+<!--  Esto es para añadir el JS en el HTML-->
+    <script src="index.js"></script>
 </head>
 
 <!-- Color de la letra-->
