@@ -31,6 +31,6 @@ function onclickpregunta() {
 
 function onclickpreguntagos() {
 
-    var NomGos = prompt('Digem el nom del teu gos' 'MaseClaseMisi');
+    var NomGos = prompt('Digem el nom del teu gos');
 }
 MaseClaseMisi
