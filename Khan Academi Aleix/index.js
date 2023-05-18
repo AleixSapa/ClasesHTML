@@ -1,3 +1,3 @@
 function onclickpreguntagos() {
-    alert('Molt bé aquí aprendre as Molt de programació')
+    alert('Molt Be Aqui Aprendras Moltes Coses de Programar')
 }
